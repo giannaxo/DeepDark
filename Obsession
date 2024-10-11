@@ -5,8 +5,15 @@
 </head>
 <body>
 <p style= "color: #ad0014; font-size: 90px; text-shadow: #960012 5px 0 10px; Text-align: center; up: 10px;font-family: Georgia, 'Times New Roman', Times, serif;" >Welcome to my Deep Obsession. </p>
-  <body style= "background-image: url('snowy.jpeg'); background-attachment: fixed;  background-size: 100vw 100vh;background-repeat: no-repeat;max-width: 500px;margin: auto;">
-    <div style="position: absolute; top: 0px; left: 0px; width: 900px; height: 200vh; background-image: url('house.jpeg');background-repeat: no-repeat;background-size: cover; background-attachment: absolute; border:5px solid grey; z-index: -1; justify-content: center; margin: auto; right: 0px;">
-<audio src="Tchaikovsky - Swan Lake (Swan Theme).mp3">
+<p style= "color: #6bc934; font-size: 30px; text-shadow: #3e8a12 5px 0 10px;text-align: center; up: -20px;font-family: Georgia, 'Times New Roman', Times, serif;" >My Art. </p>
+  <body style= "background-image: url('desktop.jpg'); background-attachment: fixed;  background-size: 100vw 100vh;background-repeat: no-repeat;max-width: 500px;margin: auto;">
+    <div style="position: absolute; top: 0px; left: 0px; width: 900px; height: 200vh; background-image: url('eyes_.jpeg');background-repeat: no-repeat;background-size: cover; background-attachment: absolute; border:5px solid purple; z-index: -1; justify-content: center; margin: auto; right: 0px;">
+      <img src= "mary.jpeg" style= "width: 23%; height: 20%; position: absolute; top: 35%; left: 16%;">
+      <img src= "IMG_8968.jpeg" style= "width: 25%; height: 23%; position: absolute; top: 35%; left: 60%;">
+      <img src= "Bunny.jpeg" style= "width: 20%; height: 20%; position: absolute; top: 58%; left: 16%;">
+      <img src= "IMG_6856.jpeg" style= "width: 20%; height: 20%; position: absolute; top: 80%; left: 16%;">
+      <img src= "IMG_5111.jpeg" style= "width: 20%; height: 20%; position: absolute; top: 58%; left: 60%;">
+       <img src= "IMG_7632.jpeg" style= "width: 20%; height: 20%; position: absolute; top: 80%; left: 60%;">
+<audio src="Tchaikovsky - Swan Lake (Swan Theme).mp3" autoplay;>
 </body>
 </html>
